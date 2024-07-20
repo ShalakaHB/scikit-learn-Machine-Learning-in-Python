@@ -1,5 +1,8 @@
 # Scikit-learn-Machine-Learning-in-Python-demo1
 
+
+We’re working with customer segmentation data saved in our folder name as Test.csv. To help you with K-Means clustering and customer segmentation.
+
 ![ML scilit](https://github.com/user-attachments/assets/f57dd3ca-4e45-42b4-bd1a-bf7dec8836b3)
 
 Scikit-learn is a powerful library for machine learning in Python, and it can be effectively used for EDA projects. Here’s a detailed guide on how to document and execute an EDA project using Scikit-learn, along with a code example:
